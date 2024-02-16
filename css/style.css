@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+}
+.custom-rounded {
+  border-radius: 20px; 
+  min-width: 200px;
+}
+.custom-bg {
+  background-color: #fafcff;
+}
+.email{
+  border-radius: 4px;
+}
+.img-illu{
+  width: 100%;
+}
+
+@media (max-width: 576px) {
+  /* Center-align items */
+  .text-box {
+    text-align: center;
+  }
+  .container{
+    text-align: center;
+  }
+}
